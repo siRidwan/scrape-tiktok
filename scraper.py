@@ -243,7 +243,7 @@ def main():
     if len(sys.argv) > 1:
         keyword = sys.argv[1]
     else:
-        keyword = "BPC-157"
+        keyword = "Best Peptides"
     
     # Get max results
     max_results = 50
